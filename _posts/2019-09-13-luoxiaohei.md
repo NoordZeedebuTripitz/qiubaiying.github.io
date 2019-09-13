@@ -4,7 +4,7 @@ title:      有生之年，我终于等来了罗小黑剧场版				# 标题
 subtitle:   今天罗小黑更新了吗 #副标题
 date:       2019-09-14				# 时间
 author:     纪 						# 作者
-header-img: img/IMG_2898.JPG 	#这篇文章标题背景图片
+header-img: img/IMG_2900.JPG 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 动漫
