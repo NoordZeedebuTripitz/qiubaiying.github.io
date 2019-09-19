@@ -5,7 +5,7 @@ title:      Roselia视频存档及个人总结 				# 标题
 subtitle:   一年前的我完全想不到自己会沉迷于一个30岁的老女人  #副标题
 date:       2019-09-20 				# 时间
 author:     fuze 						# 作者
-header-img: 捕获.PNG     	#这篇文章标题背景图片
+header-img: marriage.PNG     	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - Bang Dream
