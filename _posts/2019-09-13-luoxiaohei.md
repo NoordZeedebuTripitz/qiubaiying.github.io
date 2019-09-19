@@ -3,7 +3,7 @@ layout:     post   				    # 使用的布局（不需要改）
 title:      有生之年，我终于等来了罗小黑剧场版				# 标题 
 subtitle:   今天罗小黑更新了吗 #副标题
 date:       2019-09-14				# 时间
-author:     纪 						# 作者
+author:     fuze 						# 作者
 header-img: img/IMG_2900.JPG 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
