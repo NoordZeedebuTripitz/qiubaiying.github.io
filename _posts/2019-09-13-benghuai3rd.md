@@ -3,7 +3,7 @@ layout:     post   				    # 使用的布局（不需要改）
 title:      我与崩坏3rd 				# 标题 
 subtitle:   不过是一场游戏一场梦 #副标题
 date:       2019-09-13 				# 时间
-author:     纪 						# 作者
+author:     fuze 						# 作者
 header-img: img/IMG_4851.PNG 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
