@@ -5,7 +5,7 @@ title:      女人哪有游戏好玩 				# 标题
 subtitle:   关于我打穿了sp的小游戏这件事  #副标题
 date:       2019-09-20 				# 时间
 author:     fuze 						# 作者
-header-img: Summer Pockets 2019_9_20 23_18_49.png     	#这篇文章标题背景图片
+header-img: Summer Pockets 2019_9_20 23_18_49.jpg     	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 游戏
