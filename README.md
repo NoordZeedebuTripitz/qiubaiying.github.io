@@ -16,7 +16,6 @@
 	* [迷你关于我](#mini-about-me)
 	* [推荐标签](#featured-tags)
 	* [好友链接](#friends)
-	* [HTML5 演示文档布局](#keynote-layout)
 * 评论与 Google/Baidu Analytics
 	* [评论](#comment)
 	* [网站分析](#analytics) 
