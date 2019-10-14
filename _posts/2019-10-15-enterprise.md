@@ -2,7 +2,7 @@
 layout:     post   				    # 使用的布局（不需要改）
 title:      USS Enterprise CV-6——The name of Enterprise				# 标题 
 subtitle:   "Enterprise vs. Japan" #副标题
-date:       2019-10-12 				# 时间
+date:       2019-10-15 				# 时间
 author:     fuze 						# 作者
 header-img: img/warshipgirl.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
