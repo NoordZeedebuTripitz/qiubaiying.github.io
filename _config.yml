@@ -7,7 +7,7 @@ description: "我打黄油 看R18 听ASMR——  但我是个正经人"
 keyword: "debu, kimo, fuze, 随便玩玩, Galgame, 生活, 舰R, Tirpitz老婆"
 url: "https://noordzeedebutirpitz.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+#github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -75,8 +75,5 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
-service-worker: true
+service-worker:true
 
-
-
-# Friends
