@@ -23,9 +23,9 @@ tags:								#标签
 
 ***
 
->好的，闲聊时间到此结束，接下来推荐插上耳机欣赏本作的OP[永遠に咲く花](http://music.163.com/song?id=451521472&userid=80899584)
+好的，闲聊时间到此结束，接下来推荐插上耳机欣赏本作的OP[永遠に咲く花](http://music.163.com/song?id=451521472&userid=80899584)
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=451521472&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+<embed src="//music.163.com/style/swf/widget.swf?sid=451521472&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
 故事开始于一个叫“圣”的少年，虽然他记不清自己的过去，但他知道自己要去到一个小镇，因为他有很重要的事情要完成，路上，他遇到了一个小女孩，他们像是有默契一般，走在了一起，来到这个小镇，为了一个“很重要的事情”
 
