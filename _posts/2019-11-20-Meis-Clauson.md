@@ -26,6 +26,8 @@ emmmm听我吹了这些字，估计没人能听懂我在讲啥，嗯其实我也
 
 虽然Meis Clauson一般都是和yuiko组合，名叫Primary发行歌曲，所以拿yuiko作词，Meis Clauson编曲的歌推荐更好，但是出于私心，首推还是给了这首[beloved story](http://music.163.com/song?id=447279650&userid=80899584)，《銀色、遥か》里名白椛线的角色曲
 
+<embed src="//music.163.com/style/swf/widget.swf?sid=447279650&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all">
+
 >I wish forever with you,promise to my dearest 飾らない言葉で/我愿永远留在你身边，用着毫无修饰的话语许下承诺
 >
 >愛すること愛されること 教えてくれたね/爱与被爱，这些都是你所教会我的呢
@@ -47,6 +49,8 @@ emmmm听我吹了这些字，估计没人能听懂我在讲啥，嗯其实我也
 另外这部游戏里的另一首由Meis Clauson编曲，Duca演唱的[コイイロセカイ](http://music.163.com/song?id=447279647&userid=80899584)也非常值得一听
 
 像这种较快节奏的热情风格，能体现更明显一点的就是这首[GLORIOUS DAYS](http://music.163.com/song?id=410446184&userid=80899584)（《恋×シンアイ彼女》插入曲），里面甚至有我最喜欢也很少见的日文里的押韵
+
+<embed src="//music.163.com/style/swf/widget.swf?sid=410446184&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
 >何処かで聞いたメロディ /不知何处飘入耳中的旋律 
 >
